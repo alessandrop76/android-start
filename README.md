@@ -1,2 +1,2 @@
 # android-start
-Start course of Android by Google
+Starter course of Android by Google
